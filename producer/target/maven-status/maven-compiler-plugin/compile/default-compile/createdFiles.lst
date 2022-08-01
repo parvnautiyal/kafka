@@ -1,0 +1,12 @@
+com\library\producer\config\AutoCreateConfig.class
+com\library\producer\producer\LibraryEventProducer$1.class
+com\library\producer\domain\LibraryEvent.class
+com\library\producer\ProducerApplication.class
+com\library\producer\producer\LibraryEventProducer.class
+com\library\producer\domain\LibraryEvent$LibraryEventBuilder.class
+com\library\producer\producer\LibraryEventProducer$2.class
+com\library\producer\controller\LibraryController.class
+com\library\producer\domain\LibraryEventType.class
+com\library\producer\entity\Book$BookBuilder.class
+com\library\producer\controller\LibraryControllerAdvice.class
+com\library\producer\entity\Book.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.library.producer.unit.producer.LibraryEventProducerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.005 s - in com.library.producer.unit.producer.LibraryEventProducerTest

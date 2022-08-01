@@ -1,0 +1,4 @@
+com\library\producer\ProducerApplicationTests.class
+com\library\producer\unit\producer\LibraryEventProducerTest.class
+com\library\producer\integration\LibraryControllerIntegrationTest.class
+com\library\producer\unit\LibraryControllerTest.class
